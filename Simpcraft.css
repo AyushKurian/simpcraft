@@ -4762,10 +4762,10 @@ figure {
 .accent---about {
   position: absolute;
   left: auto;
-  top: 12%;
+  top: 20%;
   right: 0%;
   bottom: auto;
-  width: 250px;
+  width: 540px;
 }
 
 .accent---about-feature {
