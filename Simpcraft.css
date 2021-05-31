@@ -501,7 +501,7 @@ figure {
 }
 
 .logo {
-  width: 100px !important;
+  width: 100px;
   padding-bottom: 1px;
 }
 
