@@ -501,8 +501,8 @@ figure {
 }
 
 .logo {
-  width: 120px;
-  padding-bottom: 4px;
+  width: 150px !important;
+  padding-bottom: 3px;
 }
 
 .navigation-container {
