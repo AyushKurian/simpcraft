@@ -501,12 +501,8 @@ figure {
 }
 
 .logo {
-<<<<<<< HEAD
-  width: 196px !important;
-=======
-  width: 150px !important;
-  padding-bottom: 3px;
->>>>>>> parent of c8a9649 (Updated Logo!)
+  width: 100px !important;
+  padding-bottom: 1px;
 }
 
 .navigation-container {
