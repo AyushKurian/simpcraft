@@ -9955,8 +9955,18 @@ figure {
   top: 14%;
   right: 0%;
   bottom: 0%;
-  width: 640px;
-  max-width: 640px;
+  width: 720px;
+  max-width: 840px;
+}
+
+.accent---hero2 {
+  position: absolute;
+  left: auto;
+  top: -1px;
+  right: 75%;
+  bottom: -1px;
+  width: 740px;
+  max-width: 740px;
 }
 
 .bg-block-recent-article {
