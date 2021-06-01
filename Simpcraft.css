@@ -9960,15 +9960,19 @@ figure {
   max-width: 840px;
 }
 
+#more {display: none;}
+
 .accent---hero2 {
   position: absolute;
   left: -50%;
-  top: 12px;
+  top: -14px;
   right: 75%;
   bottom: -1px;
   width: 790px;
   max-width: 790px;
 }
+
+#more2 {display: none;}
 
 .bg-block-recent-article {
   position: absolute;
@@ -9980,6 +9984,8 @@ figure {
   background-color: #faecd8;
 }
 
+#more3 {display: none;}
+
 .cta-newsletter {
   position: relative;
   overflow: hidden;
@@ -9987,6 +9993,8 @@ figure {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   background-color: #faecd8;
 }
+
+#more4 {display: none;}
 
 .success-message {
   border-style: solid;
@@ -9996,6 +10004,8 @@ figure {
   background-color: #151515;
   font-size: 16px;
 }
+
+#more5 {display: none;}
 
 .footer-sub-wrap {
   display: -webkit-box;
