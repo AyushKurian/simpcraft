@@ -38,6 +38,16 @@
   justify-content: center;
 }
 
+.accent---hero2 {
+  position: absolute;
+  left: -50%;
+  top: -14px;
+  right: 75%;
+  bottom: -1px;
+  width: 790px;
+  max-width: 790px;
+}
+
 .w-pagination-previous {
   display: block;
   color: #333;
@@ -106,7 +116,7 @@
 
 body {
   font-family: Karla, sans-serif;
-  color: #333;
+  color: #111;
   font-size: 14px;
   line-height: 20px;
 }
@@ -205,7 +215,7 @@ blockquote {
   padding: 30px 32px;
   border: 1px none #000;
   border-radius: 20px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
   color: #111;
   font-size: 18px;
   line-height: 1.5;
@@ -288,7 +298,7 @@ figure {
 }
 
 .colour-block.c3 {
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .colour-block.c2 {
@@ -501,8 +511,8 @@ figure {
 }
 
 .logo {
-  width: 100px;
-  padding-bottom: 1px;
+  width: 110px;
+  padding-bottom: 4px;
 }
 
 .navigation-container {
@@ -626,7 +636,7 @@ figure {
 }
 
 .header.bg-2 {
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .header.bg-3 {
@@ -842,7 +852,7 @@ figure {
 }
 
 .content-section.bg-color-1 {
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .content-section.bg-color-2 {
@@ -1345,7 +1355,7 @@ figure {
 }
 
 .footer {
-  padding: 100px 5% 60px;
+  padding: 100px 5% 210px;
   background-color: #111;
 }
 
@@ -1735,7 +1745,7 @@ figure {
   min-width: 62px;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
   color: #111;
   font-size: 17px;
 }
@@ -1778,7 +1788,7 @@ figure {
 .button-linen {
   padding: 20px 35px;
   border-radius: 10px;
-  background-color: #f2f2f2;
+  background-color: #F6F6F6;
   box-shadow: 14px 14px 35px 0 rgba(33, 38, 106, 0.1);
   color: #000;
   font-weight: 700;
@@ -2081,7 +2091,7 @@ figure {
   max-height: 70%;
   max-width: 35%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .contact-image-wrap {
@@ -2375,7 +2385,7 @@ figure {
   right: 0%;
   bottom: auto;
   min-height: 275px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .blog-image-large {
@@ -2784,7 +2794,7 @@ figure {
   max-height: 70%;
   max-width: 35%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .team-social {
@@ -2939,7 +2949,7 @@ figure {
   height: 100%;
   max-width: 35%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .bg-block-content.bg-right {
@@ -3126,7 +3136,7 @@ figure {
   padding-top: 246px;
   padding-right: 3%;
   padding-left: 3%;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .list-numbered {
@@ -3320,11 +3330,11 @@ figure {
 .accent---home-feature {
   position: absolute;
   left: auto;
-  top: 0%;
+  top: 10%;
   right: 0%;
   bottom: auto;
-  width: 15%;
-  max-width: 240px;
+  width: 40%;
+  max-width: 940px;
 }
 
 .accent---heart-left {
@@ -3581,7 +3591,7 @@ figure {
   position: relative;
   overflow: visible;
   padding: 246px 5% 140px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .accent---heart-right-bottom {
@@ -3812,7 +3822,7 @@ figure {
   max-height: 60%;
   max-width: 35%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .about-hero-image {
@@ -3860,7 +3870,7 @@ figure {
   max-height: 40%;
   max-width: 60%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .cta-section-light {
@@ -4022,7 +4032,7 @@ figure {
   right: 0%;
   bottom: auto;
   min-height: 330px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .home-image {
@@ -4220,7 +4230,7 @@ figure {
   position: relative;
   overflow: hidden;
   padding: 100px 3%;
-  background-color: #f2f2f2;
+  background-color: #F6F6F6;
 }
 
 .pricing-icon {
@@ -4338,7 +4348,7 @@ figure {
   max-height: 70%;
   max-width: 65%;
   min-width: 300px;
-  background-color: #f2f2f2;
+  background-color: #fff1e5;
 }
 
 .button-white-hero {
