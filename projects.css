@@ -511,8 +511,8 @@ figure {
 }
 
 .logo {
-  width: 110px;
-  padding-bottom: 4px;
+  width: 90px;
+  padding-bottom: 2px;
 }
 
 .navigation-container {
@@ -2091,7 +2091,7 @@ figure {
   max-height: 70%;
   max-width: 35%;
   min-width: 300px;
-  background-color: #fff1e5;
+  background-color: #F6F6F6;
 }
 
 .contact-image-wrap {
@@ -3454,7 +3454,7 @@ figure {
   position: relative;
   overflow: hidden;
   padding: 100px 3%;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 0px solid rgba(0, 0, 0, 0.1);
   background-color: #faecd8;
 }
 
@@ -3881,7 +3881,7 @@ figure {
 }
 
 .link-yellow {
-  color: #fdd490;
+  color: #25BBBF;
 }
 
 .about-hero-wrap {
