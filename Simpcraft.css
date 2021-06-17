@@ -1368,7 +1368,7 @@ figure {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #111;
+  background-color: linear-gradient(nulldeg, rgba(49,225,229,1) 0%, rgba(37,187,191,1) 100%);
   background-image: url("https://assets.website-files.com/5f5ccfa306240b1728494d6d/5f5ccfa306240bff2d494df1_Banner%20Right.svg"), url("https://assets.website-files.com/5f5ccfa306240b1728494d6d/5f5ccfa306240b9440494dbc_Pattern%20Banner.svg");
   background-position: 100% 50%, 0px 0px;
   background-size: contain, auto;
@@ -1640,7 +1640,7 @@ figure {
   filter: invert(100%);
 }
 
-.footer-link {
+-link {
   display: block;
   margin-right: 20px;
   padding-top: 10px;
@@ -9952,7 +9952,6 @@ figure {
 }
 
 .accent---hero {
-  position: absolute;
   left: auto;
   top: 14%;
   right: 0%;
