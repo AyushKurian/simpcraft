@@ -2752,6 +2752,11 @@ p {
   text-align: right;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 @media screen and (min-width: 1280px) {
   .text-white.h6-smaller {
     font-size: 14px;
