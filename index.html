@@ -45,9 +45,7 @@
 	<div class="page-wrapper">
 		<div class="navbar">
 			<div class="navbar-container">
-				<a class="home w-inline-block" href="#" id="w-node-b282fa53-c876-a363-d487-995c7a386309-a954070d">
-				<div class="relume-logo-primary w-embed"></div>
-				<div class="relume-logo-secondary w-embed"></div></a>
+				<a class="home w-inline-block" href="#" id="w-node-b282fa53-c876-a363-d487-995c7a386309-a954070d" onload="toggleVBar();" onclick="toggleVBar();"></a>
 				<div class="nav-menu">
 					<a class="nav-link-dope-edition right-32 w-inline-block" data-w-id="b282fa53-c876-a363-d487-995c7a38630d" href="https://simpcraft.wiki/community">
 					<div class="nav-text-wrap">
@@ -384,6 +382,13 @@
 	<script src="https://cdn.plyr.io/3.6.8/plyr.js">
 	</script>
 	<script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter/dist/mc-player-counter.min.js">
+	</script>
+	<script>
+	function toggleVBar()
+{    var e=document.getElementsByClassName("nav-menu")[0];
+    if(e.style.display==="none") e.style.display="block";
+    else e.style.display="none";
+}
 	</script>
 	<script>
 	 const player = new Plyr('#player');
